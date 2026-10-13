@@ -12,5 +12,6 @@ Projects:
 - [olist-ecommerce-analytics](https://github.com/RedaMohssine/olist-ecommerce-analytics): four ML models on the Olist e-commerce dataset, served in a Streamlit app.
 - [Phd_Manager](https://github.com/RedaMohssine/Phd_Manager): web app to manage PhD students and theses (React, Express, MySQL).
 - [pulmonary-gas-exchange](https://github.com/RedaMohssine/pulmonary-gas-exchange): finite-difference models of oxygen diffusion and air flow in the lung.
+- [yolov8-bottle-detection](https://github.com/RedaMohssine/yolov8-bottle-detection): YOLOv8m fine-tuned on the COCO bottle class, with a small Tkinter app.
 
-LinkedIn: [TO FILL]
+LinkedIn: [mohamed-mohssine-reda](https://www.linkedin.com/in/mohamed-mohssine-reda/)
